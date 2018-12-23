@@ -1,0 +1,43 @@
+[33mcc44f52[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m updating readme for push
+[33m4daa8aa[m Update README.md
+[33mc58eddf[m update ssh
+[33mb4db0bb[m updating the info and project info files
+[33mb445762[m[33m ([m[1;33mtag: cherry-picking-demo-completed[m[33m)[m Cherry picking completed
+[33mebd720c[m Update info.txt
+[33md944104[m[33m ([m[1;33mtag: rebasing-activity-3-completed[m[33m)[m Commit #18 - Squash local commit 1
+[33m5335721[m[33m ([m[1;33mtag: rebase-activity-2-completed[m[33m)[m Merge pull request #17 from majorguidancesolutions-team/Developer1-Feature1
+[33mb3ca04c[m Partial bug fix commit 16
+[33mef76d41[m Update info.txt
+[33mddc3bd4[m[33m ([m[1;33mtag: rebasing-activity-1-completed[m[33m)[m Merge pull request #15 from majorguidancesolutions-team/Developer1-Feature1
+[33maa0004e[m Started feature branch 1 on rebase demo commit 2
+[33m9929566[m Started feature branch 1 on rebase demo
+[33mdce70f5[m Merge pull request #14 from majorguidancesolutions-team/Developer2-Feature2
+[33m50611ab[m Commit #15 - Started rebase dev 2 commit 2
+[33m36a1ed1[m Commit #14 - Started rebase dev 2 commit 1
+[33m2a99fa8[m Update About.html
+[33m7239b5f[m Update About.html
+[33m3d7ede4[m[33m ([m[1;33mtag: revert-activity-completed[m[33m)[m Merge pull request #13 from majorguidancesolutions-team/RevertActivity
+[33m66ef104[m Revert "Make the initial change for reverting..."
+[33m3efcf4e[m Make the initial change for reverting...
+[33m625e216[m[33m ([m[1;33mtag: git-reset-activity-completed[m[33m)[m Merge pull request #12 from majorguidancesolutions-team/ResetActivity1
+[33m31e44ed[m Fixed the bug
+[33m7a075a8[m Squash demo3 (#11)
+[33mb19c97f[m Squash demo3 (#10)
+[33m3a45d12[m Another squash (#9)
+[33m081b504[m Git amend demo (#7)
+[33md2e1a2b[m Merge pull request #6 from majorguidancesolutions-team/dev2branch
+[33md5ffb91[m Merge branch 'master' into dev2branch
+[33md299438[m Update details.html
+[33m3da1a9b[m Merge pull request #5 from majorguidancesolutions-team/dev1branch
+[33md2025b7[m Update details.html
+[33m412dc47[m Merge pull request #4 from majorguidancesolutions-team/mgs-45678-feature01
+[33meb86214[m Merged the conflict via CODE
+[33m10281c6[m Dev 1 feature change
+[33m55616f6[m Merge pull request #3 from majorguidancesolutions-team/BriansNewFeature
+[33m875522e[m New Feature from dev 2
+[33mb17483e[m Merge pull request #2 from majorguidancesolutions-team/mgs-45678-feature01
+[33m50044e6[m resolved conflict
+[33m2ecc684[m Merge pull request #1 from majorguidancesolutions-team/blg-somechange
+[33mc8c1849[m Added my thoughts for the next steps
+[33m43f0109[m The team flow is underway!
+[33m291a434[m This is the initial commit - a60f828 from default web
